@@ -1,10 +1,12 @@
 <score lang="ABC">
-X:1
+X:
 T:First Song
 C:Servo
 M:4/4
 L:1/4
 K:C
+"Cmaj7"cEGC | "Am"aCEA | "F"fACF | "G"gBDG |
+"Cmaj7"cEGC | "Am"aCEA | "F"fACF | "G"gBDG |
 "Cmaj7"cEGC | "Am"aCEA | "F"fACF | "G"gBDG |]
 
 </score>
