@@ -1,5 +1,5 @@
 def scale_gen(key, mode):
-    notes = ["a", "a^", "b", "c", "c^", "d", "d^", "e", "f", "f^", "g", "g^"]
+    notes = ["a", "^a", "b", "c", "^c", "d", "^d", "e", "f", "^f", "g", "^g"]
     # Modes
     major = "WWHWWWH"
     minor = "WHWWHWW"
